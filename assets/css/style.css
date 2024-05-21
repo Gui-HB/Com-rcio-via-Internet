@@ -33,6 +33,11 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.panfleto {
+  justify-content: center;
+  max-width: 70%;
+
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
